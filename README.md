@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -66,3 +67,12 @@ Enjoy!
 [10]: https://symfony.com/doc/2.8/cookbook/email.html
 [11]: https://symfony.com/doc/2.8/cookbook/logging/monolog.html
 [13]: https://symfony.com/doc/2.8/bundles/SensioGeneratorBundle/index.html
+=======
+# RocketInternetTest
+Rocket Internet Test
+
+Ingresar en este url
+myurl/web/app_dev.php/Cashmachine/withdraw/{especificar una cantidad aqui}
+
+para ver el resultado
+>>>>>>> 09a02b4c0df36c47ec12db40c4e1eecda8ce2c71
