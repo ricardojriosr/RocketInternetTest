@@ -1,0 +1,7 @@
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+# app/config/routing.yml
+lucky_number:
+    path:     /lucky/number/{count}
+    defaults: { _controller: AppBundle:Lucky:number }
